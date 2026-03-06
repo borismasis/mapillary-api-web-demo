@@ -4,7 +4,7 @@ A comprehensive, interactive demo of the [Mapillary](https://www.mapillary.com/)
 
 **[Live Demo](https://borismasis.github.io/mapillary-api-web-demo/)**
 
-![Screenshot](https://raw.githubusercontent.com/borismasis/mapillary-api-web-demo/main/docs/screenshot.png)
+![Screenshot](docs/screenshot.jpg)
 
 ---
 
