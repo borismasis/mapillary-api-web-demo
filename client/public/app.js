@@ -49,7 +49,7 @@ const C_DOT_HL  = '#5debb4';
 
 // ─── State ────────────────────────────────────────────────────────────────────
 
-const DEFAULT_TOKEN = 'MLY|26204192739230821|e7524fbe5f607532a47ac75bf635b052';
+const DEFAULT_TOKEN = 'MLY|26275324248758064|7819d63bee8179a083cdd76e20557967';
 let accessToken    = DEFAULT_TOKEN;
 let map            = null;
 let viewer         = null;
