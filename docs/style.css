@@ -200,6 +200,18 @@ html, body {
   background: var(--green-dark);
 }
 
+#terms-link {
+  color: #8899aa;
+  text-decoration: none;
+  font-size: 12px;
+  flex-shrink: 0;
+  transition: color 0.2s;
+}
+#terms-link:hover {
+  color: #05CB63;
+  text-decoration: underline;
+}
+
 #status-indicator {
   display: flex;
   align-items: center;
